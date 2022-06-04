@@ -1,4 +1,4 @@
-## Módulo I - Primeiro desafio de projeto Git/GitHub
+## Módulo I - Primeiro desafio de projeto Git/GitHub ✔️
 
 
 ##### Desafio GitHub : criando o primeiro repositório
