@@ -3,22 +3,22 @@
 
 Olá, aqui você encontra minhas anotações e projetos no Bootcamp Santander Fullstack, vem conferir minha evolução! 😅
 
-## Módulo I - Conteúdo de Abertura
+## Módulo I - CONTEÚDO DE ABERTURA
 
 - Livro de Receitas
 - Desafio GitHub: criando o primeiro repositório
 
-## Módulo  II
+## Módulo  II - HTML/CSS3/JS
 
 
 
-## Módulo III
+## Módulo III - ANGULAR
 
 
 
-## Módulo IV
+## Módulo IV - JAVA
 
 
 
-## Módulo V
+## Módulo V - SPRING FRAMEWORK
 
